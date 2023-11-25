@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omidyousefian
 - 👀 I’m interested in DataScience.
 - 🌱 I’m currently learning machine learning and data visualization.
-- 💞️ I’m looking to collaborate on Data Analysis and/or bigdata, Data Science, AI research projects.
+- 💞️ I’m looking to collaborate on Big Data Analytics and/or Data Science, AI research projects.
 - 📫 How to reach me yousefian.itm@gmail.com
 
 <!---
